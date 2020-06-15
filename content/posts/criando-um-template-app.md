@@ -3,7 +3,7 @@ title: Criando um Template App
 date: '2020-06-15T17:19:44-03:00'
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
+coverImage: /images/uploads/idea-1876659_640.jpg
 ---
 Para um aprendizado recursivo em Flutter resolvi criar um projeto básico de software, um projeto chamado "Template App" no Android Studio e salva-lo no Github mas :
 
