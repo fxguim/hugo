@@ -3,4 +3,4 @@
 	url = https://github.com/fxguim/hugo-theme-fuji.git
 [submodule "static/admin"]
 	path = static/admin
-	url = https://github.com/woliveiras/netlify-cms-base.git
+	url = https://github.com/fxguim/netlify-cms-base.git
