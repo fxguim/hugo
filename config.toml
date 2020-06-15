@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "Hugo Theme Fuji"
+baseURL = "https://guimacoders.netlify.app"
+title = "Guima Coders"
 
 theme = "fuji"
 hasCJKLanguage = true
@@ -20,8 +20,8 @@ paginate = 10
   post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  author = "DSRKafuU" # You can also set author in post front matter individually
-  subTitle = "A minimal Hugo theme."
+  subTitle = "Relatos sobre aprendizado."
+  author = "FXGuim" # You can also set author in post front matter individually
 
   # Use CloudFlare Workers to accelerate the Google Analytics
   # If you are using this please comment the googleAnalytics above
@@ -42,7 +42,7 @@ paginate = 10
   images = ["img/og.png"] # This will use the image called og.png in static/img folder
 
   # Posts shown in homepage
-  mainSections = ["post"]
+  mainSections = ["posts"]
 
   # Bangumi image chart id
   # bgmImageChart = "000000"
@@ -90,27 +90,24 @@ paginate = 10
 
 [menu]
   [[menu.nav]]
-    name = "Home"
+    name = "Principal"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "Archives"
+    name = "Arquivos"
     url = "/archives/"
     weight = 2
   [[menu.nav]]
-    name = "About"
+    name = "Sobre"
     url = "/about/"
     weight = 3
 
   [[menu.link]]
-    name = "GitHub"
-    url = "https://github.com/amzrk2"
+    name = "Flutter"
+    url = "https://flutter.dev/"
     weight = 1
   [[menu.link]]
-    name = "Twitter"
-    url = "https://twitter.com/amzrk2"
+    name = "Effective Dart"
+    url = "https://dart.dev/guides/language/effective-dart"
     weight = 2
-  [[menu.link]]
-    name = "bilibili"
-    url = "https://space.bilibili.com/19767474"
-    weight = 3
+
