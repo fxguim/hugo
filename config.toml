@@ -8,8 +8,8 @@ enableRobotsTXT = true
 disableKinds = ["taxonomyTerm"]
 
 ## Change this two to switch between different language
-languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
-defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
+languageCode = "pt"  # For RSS, view https://www.rssboard.org/rss-language-codes
+defaultContentLanguage = "pt"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
 
 summaryLength = 100 # Custom cummary length, add <!--more--> in post file to custom split point
 paginate = 10
@@ -31,9 +31,9 @@ paginate = 10
 
   # Word counter and read time indicator in post metadata
   showWordCounter = true
-  showReadTime = false
+  showReadTime = true
   # License at the end of each post
-  showLicense = true
+  showLicense = false
   showToc = true
 
   # Open Graph & Twitter Card variables
