@@ -1,7 +1,7 @@
 ---
 title: Criando um Template App
 date: '2020-06-15T17:19:44-03:00'
-autoThumbnailImage: false
+autoThumbnailImage: true
 thumbnailImagePosition: top
 coverImage: /images/uploads/idea-1876659_640.jpg
 ---
@@ -21,7 +21,6 @@ O pubspec é o arquivo de meta-dados que especifica as dependências de um proje
 ### effective_dart
 
  Linter rules corresponding to the guidelines in Effective Dart.
-  effective_dart: ">=1.2.2 <2.0.0"
 
 ### Mock library
 
