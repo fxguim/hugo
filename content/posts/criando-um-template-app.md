@@ -9,7 +9,7 @@ Criando um Template App
 
 Para um aprendizado recursivo em Flutter resolvi criar um projeto básico de software, um projeto chamado "Template App" no Android Studio e salva-lo no Github mas :
 - Porque aprender [Flutter](https://medium.com/toshiossada/por-que-flutter-8f17cc2bb02e) ?
-- Porque salvar no []Github](http://blog.virtuacreative.com.br/introducao-ao-github.html) ?
+- Porque salvar no [Github](http://blog.virtuacreative.com.br/introducao-ao-github.html) ?
 
 Desconsiderando esses detalhes, um projeto básico de software permite ao desenvolvedor utilizar um arcabouço já pensado, refletivo e, preferencialmente, testado. Não que venha ser o nosso caso de início pois ainda estamos aprendendo. 
 
