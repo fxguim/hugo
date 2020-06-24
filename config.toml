@@ -82,7 +82,7 @@ paginate = 10
     codeFences = false  # Disable Hugo's code highlighter
 
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 3
 
 [taxonomies]
