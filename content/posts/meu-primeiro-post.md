@@ -9,6 +9,8 @@ Ao pensar sobre Blogs normalmente você começa com Wordpress, bancos de dados, 
 
 Para esse cenário existe os geradores de site estático e abaixo destaco cada uma das ferramentas que escolhi para os relatos deste blog aqui.
 
+<!--more-->
+
 # Programa do Hugo?
 
 O Hugo é um gerador de sites estáticos, existem vários mas quem precisa saber de outros :smile:
