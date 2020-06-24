@@ -138,4 +138,4 @@ Portátil, fácil de usar e gratis, só poderia ser o
 > Nenhuma quantidade de evidência jamais convencerá um idiota
 > <cite>Mark Twain[^1]</cite>
 
-[^1]: No amount of evidence will ever persuade an idiot" ~ Mark Twain.
+[^1]: <a href="https://www.azquotes.com/quote/1351665" title="Mark Twain quote"><img src="http://www.azquotes.com/picture-quotes/quote-no-amount-of-evidence-will-ever-persuade-an-idiot-mark-twain-135-16-65.jpg" alt="No amount of evidence will ever persuade an idiot - Mark Twain"></a>

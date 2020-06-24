@@ -1,23 +1,21 @@
-﻿---
-title: Pacotes no flutter
-date: '2020-06-15T17:19:44-03:00'
-tags: [template]
-draft: true
 ---
-![Ideia](https://github.com/fxguim/hugo/blob/master/static/images/uploads/idea-1876659_640.jpg?raw=true)
+title: Pacotes no flutter, qual usar?
+date: '2020-06-15T17:19:44-03:00'
+---
+![Ideia](https://github.com/fxguim/hugo/blob/master/static/images/pacotes-no-flutter/idea-1876659_640.jpg?raw=true)
 
 No aprendizado recursivo em Flutter um dos pontos que mais me chamou atenção no começo ao cair de paraquedas é a dúvida existencial de qual pacote usar. Entretanto :
 - Porque aprender [Flutter](https://medium.com/toshiossada/por-que-flutter-8f17cc2bb02e) ?
 - Porque salvar no [Github](http://blog.virtuacreative.com.br/introducao-ao-github.html) ?
 - Porque <a href="https://guimacoders.netlify.app/posts/meu-primeiro-post/" target="_blank">estou escrevendo? E como? E onde</a> ?
 
-Desconsiderando esses detalhes, em um projeto básico de software o desenvolvedor utiliza um arcabouço já pensado, refletido e, preferencialmente, testado. Não que venha ser o nosso caso de início pois ainda estamos aprendendo. 
+Desconsiderando esses detalhes, um projeto básico de software permite ao desenvolvedor utilizar um arcabouço já pensado, refletivo e, preferencialmente, testado. Não que venha ser o nosso caso de início pois ainda estamos aprendendo. 
 
 <!--more-->
 
 # Configurações do pubspec.yaml
 
-O pubspec é o arquivo de meta-dados que especifica as dependências de um projeto flutter. Dentre as centenas de pacotes existentes que podem ser apreciados em [Pub.dev](https://pub.dev/) alguns destacam seja por serem <a href="https://pub.dev/flutter/favorites" target="_blank">favoritos</a> ou por achar interessante para aprendizado.
+O pubspec é o arquivo de meta-dados que especifica as dependências de um projeto flutter. Dentre as centenas de pacotes existentes que podem ser apreciados em [Pub.dev](https://pub.dev/) alguns destacam se para o nosso Template App:
 
 ## effective_dart 
 **O que é?** ferramentas que analisam código-fonte para acusar erros de programação, bugs, erros estilísticos, e construções suspeitas.  
@@ -53,8 +51,6 @@ O pubspec é o arquivo de meta-dados que especifica as dependências de um proje
 **O que é?** gerador de código  
 **Por que usar?** diminuir o boilerplate code  
 **Onde encontro?** [https://pub.dev/packages/freezed](https://pub.dev/packages/freezed)
-
-# Mensagem final genérica
 
 > Quem não está superando algum medo todos os dias, não aprendeu o segredo da vida.
 > <cite>Ralph Waldo Emerson[^1]</cite>
