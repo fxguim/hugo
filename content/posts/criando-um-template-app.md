@@ -2,6 +2,7 @@
 title: Criando um Template App
 date: '2020-06-15T17:19:44-03:00'
 tags: [template]
+draft: true
 ---
 ![Ideia](https://github.com/fxguim/hugo/blob/master/static/images/uploads/idea-1876659_640.jpg?raw=true)
 

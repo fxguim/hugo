@@ -3,7 +3,6 @@ title: "Meu Primeiro Post"
 date: 2020-06-04T12:07:43-03:00
 tag:
 ---
-
 ![Ideia](https://github.com/fxguim/hugo/blob/master/static/images/meu-primeiro-post/wordpress-265132_1920.jpg?raw=true)
 
 Ao pensar sobre Blogs normalmente você começa com Wordpress, bancos de dados, hospedagem e dores de cabeça similares quando na verdade você só quer escrever sobre algo sem se preocupar com detalhes técnicos. 
