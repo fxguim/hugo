@@ -55,5 +55,5 @@ O pubspec é o arquivo de meta-dados que especifica as dependências de um proje
 > Quem não está superando algum medo todos os dias, não aprendeu o segredo da vida.
 > <cite>Ralph Waldo Emerson[^1]</cite>
 
-[^1]: <a href="https://www.azquotes.com/quote/89297" title="Ralph Waldo Emerson quote"><img src="http://www.azquotes.com/picture-quotes/quote-he-who-is-not-everyday-conquering-some-fear-has-not-learned-the-secret-of-life-ralph-waldo-emerson-8-92-97.jpg" alt="He who is not everyday conquering some fear has not learned the secret of life. - Ralph Waldo Emerson"></a>
+[^1]: <a href="https://www.azquotes.com/quote/89297" title="Ralph Waldo Emerson quote"><img src="https://www.azquotes.com/picture-quotes/quote-he-who-is-not-everyday-conquering-some-fear-has-not-learned-the-secret-of-life-ralph-waldo-emerson-8-92-97.jpg" alt="He who is not everyday conquering some fear has not learned the secret of life. - Ralph Waldo Emerson"></a>
 
