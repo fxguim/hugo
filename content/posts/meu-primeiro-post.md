@@ -1,7 +1,10 @@
 ---
 title: "Meu Primeiro Post"
 date: 2020-06-04T12:07:43-03:00
-tag:
+description: "Hugo + GitHub + MarkdownMonster + Netlify"
+images:
+- "https://github.com/fxguim/hugo/blob/master/static/images/meu-primeiro-post/wordpress-265132_1920.jpg?raw=true"
+tag:[]
 ---
 ![Ideia](https://github.com/fxguim/hugo/blob/master/static/images/meu-primeiro-post/wordpress-265132_1920.jpg?raw=true)
 
