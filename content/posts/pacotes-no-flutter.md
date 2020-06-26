@@ -4,7 +4,7 @@ date: '2020-06-15T17:19:44-03:00'
 description: "Configurações do pubspec: O que é? Porque usar? Onde encontro?"
 images:
 - https://github.com/fxguim/hugo/blob/master/static/images/pacotes-no-flutter/idea-1876659_640.jpg?raw=true
-tag:[]
+tag:
 ---
 ![Ideia](https://github.com/fxguim/hugo/blob/master/static/images/pacotes-no-flutter/idea-1876659_640.jpg?raw=true)
 
