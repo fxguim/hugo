@@ -6,7 +6,7 @@ images:
 - https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/letters-3665281_640.jpg?raw=true
 tag:
 ---
-![](../../static/images/boilerplate/letters-3665281_640.jpg)
+![](https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/letters-3665281_640.jpg?raw=true)
 
 Com certeza todo desenvolvedor já vivenciou algo parecido com esse algoritmo:
 
@@ -115,7 +115,7 @@ Entretando ao analisarmos nosso diretorio raiz percebe-se que o arquivo .gitigno
 
 O próprio Github possui um repositorio com uma coleção de arquivos .gitignore padrão por linguagem bem amplo que no caso da linguagem Dart se encontra em https://github.com/github/gitignore/blob/master/Dart.gitignore mas uma opção bem completa e prática é o gerado pelo <a href="https://gitignore.io" target="_blank">gitignore.io</a>. Exemplificando:
 
-![](../../static/images/boilerplate/gitignore_io.gif)
+![](https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/gitignore_io.gif?raw=true)
 
 O resultado final também pode ser conferido em https://www.toptal.com/developers/gitignore/api/androidstudio,dart,flutter
 
@@ -166,11 +166,11 @@ analyzer:
 (...)
 ```
 Entretanto prefiro colocar essas exceções direto no Android Studio em `Settings>File Types>Dart` como destaco abaixo:
-![](../../static/images/boilerplate/settings.PNG)
+![](https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/settings.PNG?raw=true)
 
 ## Configurando o pubspec.yaml
 
-Em um relato anterior {{< ref "pacotes-no-flutter.md" >}} descrevi alguns pacotes interessantes e cada um de nós pode montar um pubspec.yaml básico como esse a seguir:
+Em um <a href="{{<%20ref%20"pacotes-no-flutter.md"%20>}}" target="_blank">relato anterior</a> descrevi alguns pacotes interessantes e cada um de nós pode montar um pubspec.yaml básico como esse a seguir:
 
 ```yaml
 (...)
