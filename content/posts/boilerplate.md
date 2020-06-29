@@ -24,6 +24,8 @@ Com certeza todo desenvolvedor já vivenciou algo parecido com esse algoritmo:
 
 Normalmente é assim que muitos projetos nascem e morrem, mas se não podemos garantir que seja diferente, pelo menos podemos diminuir o retrabalho e ganhar o bem mais precioso que existe: tempo.
 
+<!--more-->
+
 Logo, o melhor a fazer é criar um projeto boilerplate, principalmente se as ferramentas e configurações necessárias a todo novo projeto são praticamente as mesmas sempre. Isso ajuda no projeto inicial caso se tenha uma nova ideia em mente, mas sem perder tempo arrumando a casa do zero toda hora.
 
 # Boilerplate, o que ser isso?
