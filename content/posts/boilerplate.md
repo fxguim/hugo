@@ -5,7 +5,7 @@ description: "Diminuindo o retrabalho e ganhando tempo em novos projetos"
 images:
 - https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/letters-3665281_640.jpg?raw=true
 tag:
-draft:true
+draft: true
 ---
 ![](https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/letters-3665281_640.jpg?raw=true)
 
