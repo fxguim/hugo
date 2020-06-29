@@ -172,7 +172,7 @@ Entretanto prefiro colocar essas exceções direto no Android Studio em `Setting
 
 ## Configurando o pubspec.yaml
 
-Em um <a href="{{<%20ref%20"pacotes-no-flutter.md"%20>}}" target="_blank">relato anterior</a> descrevi alguns pacotes interessantes e cada um de nós pode montar um pubspec.yaml básico como esse a seguir:
+Em um <a href="{{< ref "pacotes-no-flutter.md" >}}" target="_blank">relato anterior</a> descrevi alguns pacotes interessantes e cada um de nós pode montar um pubspec.yaml básico como esse a seguir:
 
 ```yaml
 (...)
