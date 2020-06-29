@@ -1,11 +1,10 @@
 ---
 title: "Boilerplate"
-date: 2020-06-28T08:27:55-03:00
+date: 2020-06-29T08:27:55-03:00
 description: "Diminuindo o retrabalho e ganhando tempo em novos projetos"
 images:
 - https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/letters-3665281_640.jpg?raw=true
 tag:
-draft: true
 ---
 ![](https://github.com/fxguim/hugo/blob/master/static/images/boilerplate/letters-3665281_640.jpg?raw=true)
 
