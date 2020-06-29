@@ -56,6 +56,8 @@ O pubspec é o arquivo de meta-dados que especifica as dependências de um proje
 **Por que usar?** diminuir o boilerplate code  
 **Onde encontro?** [https://pub.dev/packages/freezed](https://pub.dev/packages/freezed)
 
+# Mensagem final genérica
+
 > Quem não está superando algum medo todos os dias, não aprendeu o segredo da vida.
 > <cite>Ralph Waldo Emerson[^1]</cite>
 
