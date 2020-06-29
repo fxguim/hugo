@@ -37,32 +37,38 @@ Desta forma, se já tivéssemos no GitHub um boilerplate então seria só o caso
 
 ## Gerando o repositório básico
 
-É claro que poderíamos ir no GitHub criar o repositório vazio, depois criar localmente um diretório, iniciar o git, comitar e publicar. Tantos comandos que a preguiça pede a criação de um script só pra isso :grinning:
+É claro que poderíamos ir no GitHub criar o repositório vazio, depois criar localmente um diretório, iniciar o git, comitar e publicar. Tantos comandos apos criar o repositório remoto que a preguiça pede a criação de um script só pra isso :grinning:
 
 ```powershell
 :: Guima Coders - gitinit.bat
-:: Inicializa um diretório com Git além de criar o repositório no GitHub
+:: Inicializa um diretório com Git e configura no github
 :: Copyright 2020 Fábio Guimarães
 :: MIT License
 @echo off
 set USERNAME=%1
 set REPONAME=%2
-:: cria repositorio no github
-call curl -u %USERNAME% https://api.github.com/user/repos -d '{"name":"'%REPONAME%'"}'
-:: cria o repositorio local e inicia o git
-md %REPONAME%
+:: cria o repositorio local com [md %REPONAME%] ou [call flutter create %REPONAME%]
+call flutter create %REPONAME%
+:: inicia o git
+cd %REPONAME%
+echo "git init ..."
 call git init
-:: define usuario/password em cache
-call git config credential.helper cache
+:: define usuario/password em windcred
+call git config credential.helper wincred
+echo "Configurando o .gitignore"
+curl https://www.toptal.com/developers/gitignore/api/androidstudio,dart,flutter --output .gitignore
 :: adiciona/remove/modifica todos os arquivos para o git
+echo "git add e commit ..."
 call git add -A
 :: comita
 call git commit -m "first commit"
 :: configura o repositorio local ao remoto
-call git remote rm origin
+echo "git remote ..."
+::call git remote rm origin
 call git remote add origin https://github.com/%USERNAME%/%REPONAME%.git
 :: publica o repositorio
-call git push -u origin master
+echo "git push ..."
+call git push -f -u origin master
 ```
 
 E depois de escrever qualquer coisa nova nesse projeto seria só o caso de executar o segundo nível de preguiça:
@@ -241,7 +247,9 @@ Um bom costume para ser feliz é, sempre que se começar um novo projeto, gastar
 
 Espero que esse relato no mínimo seja usado no futuro para referência ou sirva de inspiração para a criação de seu próprio boilerplate!
 
-A versão mais atualizada que criei/utilizo pode ser encontrada em xpto.
+A versão mais atualizada do boilerplate que criei/utilizo pode ser encontrada em https://github.com/fxguim/boilerplate.
+
+E os script são armazenados em https://github.com/fxguim/scripts
 
 # Mensagem final genérica
 
